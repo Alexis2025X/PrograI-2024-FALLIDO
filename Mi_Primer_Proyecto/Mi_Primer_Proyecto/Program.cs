@@ -10,15 +10,49 @@ namespace Mi_Primer_Proyecto
     {
         static void Main(string[] args)
         {
-            //Ejerecicio de suma de dos numeros introducidos por el usuario
-            Console.Write("Num 1: ");
-            sbyte num1 = sbyte.Parse(Console.ReadLine()); //"5" -> 5
-            //.Parse transforma la cadena a numero
-            Console.Write("Num 2: ");
-            sbyte num2 = sbyte.Parse(Console.ReadLine());
+            //Console.Write(Computo I);
 
-            int respuesta = num1 + num2;
-            Console.WriteLine("La suma de {0}+{1}={2}", num1, num2, respuesta);
+            Console.Write("lab1: ");
+            double lab1 = double.Parse(Console.ReadLine());
+
+            Console.Write("lab2: ");
+            double lab2 = double.Parse(Console.ReadLine());
+
+            Console.Write("parcial1: ");
+            double pacial1 = double.Parse(Console.ReadLine());
+
+            double c1 = lab1 * 30 / 100 + lab2 * 20 / 100 + pacial1 * 40 / 100;
+            Console.WriteLine("La nota de C1 es: {0}", c1);
+
+            //Console.Write("//////////////////////////////");
+            //Console.Write("Computo II");
+
+            Console.Write("lab1: ");
+            double lab1II = double.Parse(Console.ReadLine());
+
+            Console.Write("lab2: ");
+            double lab2II = double.Parse(Console.ReadLine());
+
+            Console.Write("parcial2: ");
+            double pacial2 = double.Parse(Console.ReadLine());
+
+            double c2 = lab1 * 30 / 100 + lab2 * 20 / 100 + pacial2 * 40 / 100;
+            Console.WriteLine("La nota de C2 es: {0}", c2);
+
+            //Console.Write("//////////////////////////////");
+            //Console.Write("Computo III");
+
+            Console.Write("lab1: ");
+            double lab1III = double.Parse(Console.ReadLine());
+
+            Console.Write("lab2: ");
+            double lab2III = double.Parse(Console.ReadLine());
+
+            Console.Write("parcial3: ");
+            double pacial3 = double.Parse(Console.ReadLine());
+
+            double c3 = lab1 * 30 / 100 + lab2 * 20 / 100 + pacial2 * 40 / 100;
+            Console.WriteLine("La nota de C3 es: {0}", c3);
 
             //Hace una pausa en la consola lo cual nos permite leer lo que se imprime
             Console.ReadLine();
