@@ -10,7 +10,7 @@ namespace Mi_Primer_Proyecto
     {
         static void Main(string[] args)
         {
-            //Console.Write("Computo I");
+            Console.WriteLine("Computo I");
 
             Console.Write("lab1: ");
             double lab1 = double.Parse(Console.ReadLine());
@@ -24,8 +24,8 @@ namespace Mi_Primer_Proyecto
             double c1 = lab1 * 30 / 100 + lab2 * 30 / 100 + parcial1 * 40 / 100;
             Console.WriteLine("La nota de C1 es: {0}", c1);
 
-            //Console.Write("//////////////////////////////");
-            //Console.Write("Computo II");
+            Console.WriteLine("//////////////////////////////");
+            Console.WriteLine("Computo II");
 
             Console.Write("lab1: ");
             double lab1II = double.Parse(Console.ReadLine());
@@ -39,8 +39,8 @@ namespace Mi_Primer_Proyecto
             double c2 = lab1II * 30 / 100 + lab2II * 30 / 100 + parcial2 * 40 / 100;
             Console.WriteLine("La nota de C2 es: {0}", c2);
 
-            //Console.Write("//////////////////////////////");
-            //Console.Write("Computo III");
+            Console.WriteLine("//////////////////////////////");
+            Console.WriteLine("Computo III");
 
             Console.Write("lab1: ");
             double lab1III = double.Parse(Console.ReadLine());
@@ -57,8 +57,12 @@ namespace Mi_Primer_Proyecto
             //double Notafinal = (c1 + c2 + c3)/3 ;
             double Notafinal = Math.Round(((c1 + c2 + c3) / 3),1);
 
-            //double Notafinall = Math.Round(Notafinal);
             Console.WriteLine("La nota final de la asignatura es: {0}", Notafinal);
+            Console.WriteLine("//////////////////////////////");
+            if (Notafinal < 6)
+                Console.WriteLine("Usted a reprobado");
+            else
+                Console.WriteLine("Felicidades usted a aprobado");
 
             //Hace una pausa en la consola lo cual nos permite leer lo que se imprime
             Console.ReadLine();
