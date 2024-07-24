@@ -5,3 +5,10 @@ C:\Users\kevin\source\repos\PrograI-2024\Mi_Primer_Proyecto\Mi_Primer_Proyecto\o
 C:\Users\kevin\source\repos\PrograI-2024\Mi_Primer_Proyecto\Mi_Primer_Proyecto\obj\Debug\Mi_Primer_Proyecto.csproj.CoreCompileInputs.cache
 C:\Users\kevin\source\repos\PrograI-2024\Mi_Primer_Proyecto\Mi_Primer_Proyecto\obj\Debug\Mi_Primer_Proyecto.exe
 C:\Users\kevin\source\repos\PrograI-2024\Mi_Primer_Proyecto\Mi_Primer_Proyecto\obj\Debug\Mi_Primer_Proyecto.pdb
+C:\Users\Estudiante\source\repos\PrograI-2024\Mi_Primer_Proyecto\Mi_Primer_Proyecto\bin\Debug\Mi_Primer_Proyecto.exe.config
+C:\Users\Estudiante\source\repos\PrograI-2024\Mi_Primer_Proyecto\Mi_Primer_Proyecto\bin\Debug\Mi_Primer_Proyecto.exe
+C:\Users\Estudiante\source\repos\PrograI-2024\Mi_Primer_Proyecto\Mi_Primer_Proyecto\bin\Debug\Mi_Primer_Proyecto.pdb
+C:\Users\Estudiante\source\repos\PrograI-2024\Mi_Primer_Proyecto\Mi_Primer_Proyecto\obj\Debug\Mi_Primer_Proyecto.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\PrograI-2024\Mi_Primer_Proyecto\Mi_Primer_Proyecto\obj\Debug\Mi_Primer_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\PrograI-2024\Mi_Primer_Proyecto\Mi_Primer_Proyecto\obj\Debug\Mi_Primer_Proyecto.exe
+C:\Users\Estudiante\source\repos\PrograI-2024\Mi_Primer_Proyecto\Mi_Primer_Proyecto\obj\Debug\Mi_Primer_Proyecto.pdb
